@@ -1,0 +1,12 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+UDGTV 44 | Noticias | |
+https://www.dailymotion.com/video/x3m1xfy
+UDGTV 44 Noticias | Noticias | |
+https://www.dailymotion.com/video/x6km0ku
+Quiero TV | Entretenimiento | |
+https://www.dailymotion.com/video/x8452uw
+Imagen Tv | Noticias | |
+https://www.dailymotion.com/video/x82z4if
+
