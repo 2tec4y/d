@@ -11,9 +11,6 @@ Paste one of the following URL based on your location, to avoid buffering:
 
 `https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/dailymotion-MX.m3u`
 
-`https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/dailymotion-EU.m3u`
-
-`https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/dailymotion-SG.m3u`
 
 ### Run the tool on your local machine
 
