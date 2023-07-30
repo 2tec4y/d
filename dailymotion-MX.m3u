@@ -14,7 +14,9 @@
 
 
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="", Quiero Tv
-https://stream-03.sv4.dailymotion.com/sec(x1PLfCsJyt2s8YfaFH9qNZPSWoXjYjlk9lZX6Biqr5_io-uMfuW1lTIHeTU7g4jo)/dm/3/x8lng9k/s/live-0.m3u8#cell=lsv4
-
-
+https://stream-03.sv4.dailymotion.com/sec(x1PLfCsJyt2s8YfaFH9qNZPSWoXjYjlk9lZX6Biqr5_io-uMfuW1lTIHeTU7g4jo)/dm/3/x8lng9k/s/live-0.m3u8
+#cell=lsv4
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="", ImagenTv
+https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOsJWhJEPdicD2TYSE5XG7nw5bl4GqKwIOYT1O2bPuS5)/p/dm/3/x6t7n6t/s/live-0.m3u8
+#cell=lnyc
 
