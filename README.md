@@ -1,21 +1,21 @@
 <h1 align="center"> Dailymotion_to_m3u </h1>
 
-[![M3U generator for Dailymotion](https://github.com/2tec4y/dailymotion_to_m3u/actions/workflows/grabber.yml/badge.svg)](https://github.com/2tec4y/dailymotion_to_m3u/actions/workflows/grabber.yml)
+[![M3U generator for Dailymotion](https://github.com/2tec4y/d/actions/workflows/grabber.yml/badge.svg)](https://github.com/2tec4y/d/actions/workflows/grabber.yml)
 
-`https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/dailymotion-{PREFERRED SERVER}.m3u`
+`https://raw.githubusercontent.com/2tec4y/d/main/dailymotion-{PREFERRED SERVER}.m3u`
 m3u links of Dailymotion live channels, auto-updated everyday.
 
 ### Usage
 
 Paste one of the following URL based on your location, to avoid buffering:
 
-`https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/MX.m3u`
+`https://raw.githubusercontent.com/2tec4y/d/main/MX.m3u`
 
 
 ### Run the tool on your local machine
 
 ```bash
-git clone https://github.com/2tec4y/dailymotion_to_m3u.git
+git clone https://github.com/2tec4y/d.git
 cd dailymotion_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
