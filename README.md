@@ -9,7 +9,7 @@ m3u links of Dailymotion live channels, auto-updated everyday.
 
 Paste one of the following URL based on your location, to avoid buffering:
 
-`https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/dailymotion-MX.m3u`
+`https://raw.githubusercontent.com/2tec4y/dailymotion_to_m3u/main/MX.m3u`
 
 
 ### Run the tool on your local machine
