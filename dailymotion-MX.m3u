@@ -11,7 +11,9 @@
 #########################################################################
 
 
-
+#EXTINF:-1 group-title="Noticias" tvg-logo="" tvg-id="", ImagenTv
+https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOsJWhJEPdicD2TYSE5XG7nw5bl4GqKwIOYT1O2bPuS5)/p/dm/3/x6t7n6t/s/live-0.m3u8
+#cell=lnyc
 
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="", Quiero Tv
 https://www.dailymotion.com/video/x8lng9k?autoplay=1
@@ -19,9 +21,9 @@ https://www.dailymotion.com/video/x8lng9k?autoplay=1
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="", Vibe TV
 https://www.dailymotion.com/video/x7v6kdc?autoplay=1
 
+#EXTINF:-1 group-title="Viajes" tvg-logo="" tvg-id="", México Travel Channel
+https://www.dailymotion.com/video/x7v76vf?autoplay=1
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="", ImagenTv
-https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOsJWhJEPdicD2TYSE5XG7nw5bl4GqKwIOYT1O2bPuS5)/p/dm/3/x6t7n6t/s/live-0.m3u8
-#cell=lnyc
+
 
 
