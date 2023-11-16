@@ -5,6 +5,17 @@
 `https://raw.githubusercontent.com/2tec4y/d/main/dailymotion-{PREFERRED SERVER}.m3u`
 m3u links of Dailymotion live channels, auto-updated everyday.
 
+Thanks to the Original Proyect:
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+Muchas Gracias
 ### Usage
 
 Paste one of the following URL based on your location, to avoid buffering:
